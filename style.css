@@ -1,0 +1,43 @@
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	background-image:url(photo/fad.jpg);
+	background-size: cover;
+	text-align: center;
+}
+
+h2 {
+	color: #35b0ab;
+	font-size: 20px;
+	font-family: 'Fjalla One', sans-serif;
+}
+h1{
+	color:#010059;
+}
+
+.card {
+	background-color: #d4d7dd;
+	margin: 30px auto;
+	width: 400px;
+	border-radius: 5%;
+	padding: 40px;
+	box-shadow: 5px 5px grey;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+	padding: 20px;
+}
+
+.mini-reseaux {
+	margin: 0px 10px 0px 10px;
+}
+
+.img-circle { 
+	border-radius: 50%;
+
+}
+
+.Ross {
+	background-color: #d4d7dd;
+}
